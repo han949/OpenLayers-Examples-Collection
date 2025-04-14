@@ -1,0 +1,156 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>动态投影示例</title>
+    <meta charset="utf-8" />
+    <link href="../../css/ol.css" rel="stylesheet" />    
+    <script src="../../libs/ol5/ol.js"></script>
+    <script src="../../libs/ol5/proj4.js"></script>
+    <style>
+        body {
+            margin: 0px;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            position: absolute;
+        }
+
+        .container {
+            display: inline-block;
+            width: 40%;
+            height: 80%;
+            padding: 10px;
+        }
+
+        .map {
+            display: inline-block;
+            background: #f8f4f0;
+            width: 100%;
+            height: 95%;
+            border: 1px dashed #ff0000;
+        }
+
+        #menu {
+            padding: 10px;
+            border-radius: 3px;
+            overflow: hidden;
+            width: 100%;
+            height: auto;
+            box-shadow: 0 0 2px 1px #949292;
+            text-align: center;
+            z-index: 2001;
+            border-color: #66ccff;
+            border-bottom: 1px solid #949292;
+            margin-bottom: 2px;
+        }
+
+        #projection {
+            color: #0075C7;
+            display: inline-block;
+            padding: 3px 5px;
+            margin-top: 4px;
+            margin-bottom: 4px;
+            margin-left: 4px;
+            margin-right: 4px;
+            font-size: 12px;
+            font-weight: 400;
+            line-height: 1.42857143;
+            text-align: center;
+            white-space: nowrap;
+            vertical-align: middle;
+            border: 1px solid transparent;
+            border-color: #0075C7;
+            border-radius: 3px;
+            background-image: none;
+            background-color: transparent;
+        }
+    </style>
+</head>
+<body>
+    <div id="menu">
+        <label class="title" for="projection">
+            <button id="projection">动态投影转换</button>
+        </label>
+    </div>
+    <div class="container">
+        <lable>投影坐标系（EPSG:3857）</lable>
+        <div id="map1" class="map"></div>
+    </div>
+    <div class="container">
+        <lable>投影坐标系（ESRI:53009）</lable>
+        <div id="map2" class="map"></div>
+    </div>
+    <script>
+        var transformMap;
+        var vectLayer = new ol.layer.Vector({
+            source: new ol.source.Vector({
+                url: '../../data/geojson/countries.geojson',
+                format: new ol.format.GeoJSON(),
+                wrapX: false
+            })
+
+        });
+        var map = new ol.Map({
+            layers: [
+               new ol.layer.Tile({
+                   title: "天地图矢量图层",
+                   source: new ol.source.XYZ({
+                       url: "http://t0.tianditu.com/DataServer?T=vec_w&x={x}&y={y}&l={z}&tk=3bc6874f2b919aa581635abab7759a3f",
+                       wrapX: false
+                   })
+               }),
+               vectLayer,
+               new ol.layer.Tile({
+                   title: "天地图矢量图层注记",
+                   source: new ol.source.XYZ({
+                       url: "http://t0.tianditu.com/DataServer?T=cva_w&x={x}&y={y}&l={z}&tk=3bc6874f2b919aa581635abab7759a3f",
+                       wrapX: false
+                   })
+               })
+            ],
+            target: 'map1', //地图容器div的ID
+            view: new ol.View({
+                projection: ol.proj.get('EPSG:3857'), //投影坐标系
+                center: [0, 0],
+                zoom: 1
+            })
+        });
+
+        //定义球形摩尔魏特投影坐标系，对应ESRI的编号为ESRI:53009
+        proj4.defs('ESRI:53009', '+proj=moll +lon_0=0 +x_0=0 +y_0=0 +a=6371000 ' +
+                     '+b=6371000 +units=m +no_defs');
+        ol.proj.proj4.register(proj4);
+        var sphereMollweideProjection = new ol.proj.Projection({
+            code: 'ESRI:53009', //编号
+            extent: [-9009954.605703328, -9009954.605703328, 9009954.605703328, 9009954.605703328], //范围
+            worldExtent: [-179, -90, 179, 90] //世界经纬度范围
+        });
+        //开始投影转换
+        document.getElementById('projection').onclick = function () {
+            if (transformMap == null || transformMap == undefined) {
+                transformMap = new ol.Map({
+                    layers: [
+                        new ol.layer.Vector({
+                            source: new ol.source.Vector({
+                                url: '../../data/geojson/countries.geojson',
+                                format: new ol.format.GeoJSON()
+                            })
+                        })
+                    ],
+                    target: 'map2',
+                    view: new ol.View({
+                        projection: sphereMollweideProjection, //投影坐标系
+                        center: [120, 40],
+                        zoom: 1
+                    })
+                });
+                var graticule = new ol.Graticule({  //参考系标线
+                    map: transformMap  //显示参考系标线的地图
+                });
+            }
+        };
+
+    </script>
+</body>
+</html>

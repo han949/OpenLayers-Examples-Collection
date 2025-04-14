@@ -1,0 +1,2 @@
+ImageArcGIS有更改
+ol.layer.set方法无效

@@ -1,0 +1,2618 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Schema id="schemaUrl" name="schemaUrl">
+    <SimpleField name="Capital" type="STR_TYPE" />
+    <SimpleField name="Country" type="STR_TYPE" />
+    <SimpleField name="Cap_Pop" type="DOUBLE_TYPE" />
+</Schema>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">维尔纽斯</SchemaData>
+        <SchemaData name="Country">立陶宛</SchemaData>
+        <SchemaData name="Cap_Pop">582000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;维尔纽斯&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;立陶宛&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;582000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>25.275967,54.688568,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">明斯克</SchemaData>
+        <SchemaData name="Country">白俄罗斯</SchemaData>
+        <SchemaData name="Cap_Pop">1650000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;明斯克&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;白俄罗斯&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1650000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>27.575567,53.899937,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">都柏林</SchemaData>
+        <SchemaData name="Country">爱尔兰</SchemaData>
+        <SchemaData name="Cap_Pop">1140000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;都柏林&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;爱尔兰&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1140000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-6.257347,53.341560,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">柏林</SchemaData>
+        <SchemaData name="Country">德国</SchemaData>
+        <SchemaData name="Cap_Pop">5061248.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;柏林&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;德国&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;5061248.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>13.327573,52.516273,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">阿姆斯特丹</SchemaData>
+        <SchemaData name="Country">荷兰</SchemaData>
+        <SchemaData name="Cap_Pop">1860000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;阿姆斯特丹&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;荷兰&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1860000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>4.894833,52.373043,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">华沙</SchemaData>
+        <SchemaData name="Country">波兰</SchemaData>
+        <SchemaData name="Cap_Pop">2323000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;华沙&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;波兰&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;2323000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>21.011879,52.244946,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">伦敦</SchemaData>
+        <SchemaData name="Country">英国</SchemaData>
+        <SchemaData name="Cap_Pop">11100000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;伦敦&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;英国&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;11100000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-0.177998,51.487911,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">布鲁塞尔</SchemaData>
+        <SchemaData name="Country">比利时</SchemaData>
+        <SchemaData name="Cap_Pop">2385000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;布鲁塞尔&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;比利时&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;2385000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>4.367612,50.837048,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">基辅</SchemaData>
+        <SchemaData name="Country">乌克兰</SchemaData>
+        <SchemaData name="Cap_Pop">2900000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;基辅&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;乌克兰&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;2900000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>30.502111,50.448158,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">布拉格</SchemaData>
+        <SchemaData name="Country">捷克</SchemaData>
+        <SchemaData name="Cap_Pop">1325000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;布拉格&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;捷克&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1325000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>14.456520,50.105896,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">巴黎</SchemaData>
+        <SchemaData name="Country">法国</SchemaData>
+        <SchemaData name="Cap_Pop">9775000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;巴黎&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;法国&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;9775000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>2.432833,48.881554,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">维也纳</SchemaData>
+        <SchemaData name="Country">奥地利</SchemaData>
+        <SchemaData name="Cap_Pop">1875000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;维也纳&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;奥地利&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1875000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>16.320986,48.202118,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">乌兰巴托</SchemaData>
+        <SchemaData name="Country">蒙古</SchemaData>
+        <SchemaData name="Cap_Pop">548400.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;乌兰巴托&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;蒙古&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;548400.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>106.912354,47.928596,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">布达佩斯</SchemaData>
+        <SchemaData name="Country">匈牙利</SchemaData>
+        <SchemaData name="Cap_Pop">2565000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;布达佩斯&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;匈牙利&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;2565000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>19.094250,47.514626,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">伯尔尼</SchemaData>
+        <SchemaData name="Country">瑞士</SchemaData>
+        <SchemaData name="Cap_Pop">298800.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;伯尔尼&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;瑞士&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;298800.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>7.445736,46.948208,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">渥太华</SchemaData>
+        <SchemaData name="Country">加拿大</SchemaData>
+        <SchemaData name="Cap_Pop">819263.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;渥太华&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;加拿大&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;819263.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-75.650749,45.374218,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">贝尔格莱德</SchemaData>
+        <SchemaData name="Country">南斯拉夫</SchemaData>
+        <SchemaData name="Cap_Pop">1400000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;贝尔格莱德&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;南斯拉夫&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1400000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>20.412556,44.799683,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">布加勒斯特</SchemaData>
+        <SchemaData name="Country">罗马尼亚</SchemaData>
+        <SchemaData name="Cap_Pop">2250000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;布加勒斯特&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;罗马尼亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;2250000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>26.122976,44.430485,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">阿斯塔纳</SchemaData>
+        <SchemaData name="Country">哈萨克斯坦</SchemaData>
+        <SchemaData name="Cap_Pop">1190000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;阿斯塔纳&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;哈萨克斯坦&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1190000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>76.912628,43.255062,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">索非亚</SchemaData>
+        <SchemaData name="Country">保加利亚</SchemaData>
+        <SchemaData name="Cap_Pop">1205000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;索非亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;保加利亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1205000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>23.331871,42.707264,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">第比利斯</SchemaData>
+        <SchemaData name="Country">格鲁吉亚</SchemaData>
+        <SchemaData name="Cap_Pop">1460000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;第比利斯&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;格鲁吉亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1460000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>44.783127,41.721809,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">地拉那</SchemaData>
+        <SchemaData name="Country">阿尔巴尼亚</SchemaData>
+        <SchemaData name="Cap_Pop">210800.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;地拉那&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;阿尔巴尼亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;210800.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>19.831804,41.331654,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">马德里</SchemaData>
+        <SchemaData name="Country">西班牙</SchemaData>
+        <SchemaData name="Cap_Pop">4650000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;马德里&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;西班牙&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;4650000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-3.690969,40.442219,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">巴库</SchemaData>
+        <SchemaData name="Country">阿塞拜疆</SchemaData>
+        <SchemaData name="Cap_Pop">2020000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;巴库&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;阿塞拜疆&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;2020000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>49.816238,40.324299,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">埃里温</SchemaData>
+        <SchemaData name="Country">亚美尼亚</SchemaData>
+        <SchemaData name="Cap_Pop">1315000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;埃里温&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;亚美尼亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1315000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>44.532669,40.208023,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">安卡拉</SchemaData>
+        <SchemaData name="Country">土耳其</SchemaData>
+        <SchemaData name="Cap_Pop">2400000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;安卡拉&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;土耳其&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;2400000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>32.853271,39.929329,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">北京</SchemaData>
+        <SchemaData name="Country">中华人民共和国</SchemaData>
+        <SchemaData name="Cap_Pop">6450000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;北京&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;中华人民共和国&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;6450000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>116.388039,39.906193,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">平壤</SchemaData>
+        <SchemaData name="Country">朝鲜</SchemaData>
+        <SchemaData name="Cap_Pop">1600000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;平壤&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;朝鲜&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1600000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>125.757515,39.028515,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">华盛顿</SchemaData>
+        <SchemaData name="Country">美国</SchemaData>
+        <SchemaData name="Cap_Pop">3221400.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;华盛顿&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;美国&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;3221400.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-76.953835,38.890911,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">阿什哈巴德</SchemaData>
+        <SchemaData name="Country">土库曼斯坦</SchemaData>
+        <SchemaData name="Cap_Pop">398000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;阿什哈巴德&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;土库曼斯坦&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;398000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>58.390133,37.950420,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">首尔</SchemaData>
+        <SchemaData name="Country">韩国</SchemaData>
+        <SchemaData name="Cap_Pop">15850000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;首尔&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;韩国&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;15850000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>126.935249,37.542351,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">突尼斯</SchemaData>
+        <SchemaData name="Country">突尼斯</SchemaData>
+        <SchemaData name="Cap_Pop">1225000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;突尼斯&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;突尼斯&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1225000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>10.165960,36.818813,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">德黑兰</SchemaData>
+        <SchemaData name="Country">伊朗</SchemaData>
+        <SchemaData name="Cap_Pop">6400000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;德黑兰&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;伊朗&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;6400000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>51.447651,35.774475,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">东京</SchemaData>
+        <SchemaData name="Country">日本</SchemaData>
+        <SchemaData name="Cap_Pop">23620000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;东京&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;日本&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;23620000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>139.809189,35.683056,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">喀布尔</SchemaData>
+        <SchemaData name="Country">阿富汗</SchemaData>
+        <SchemaData name="Cap_Pop">1179000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;喀布尔&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;阿富汗&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1179000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>69.136757,34.530907,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">伊斯兰堡</SchemaData>
+        <SchemaData name="Country">巴基斯坦</SchemaData>
+        <SchemaData name="Cap_Pop">204364.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;伊斯兰堡&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;巴基斯坦&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;204364.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>73.060547,33.718151,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">大马士革</SchemaData>
+        <SchemaData name="Country">叙利亚</SchemaData>
+        <SchemaData name="Cap_Pop">1850000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;大马士革&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;叙利亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1850000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>36.313454,33.519302,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">巴格达</SchemaData>
+        <SchemaData name="Country">伊拉克</SchemaData>
+        <SchemaData name="Cap_Pop">3841268.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;巴格达&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;伊拉克&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;3841268.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>44.397835,33.334038,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">安曼</SchemaData>
+        <SchemaData name="Country">约旦</SchemaData>
+        <SchemaData name="Cap_Pop">1250000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;安曼&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;约旦&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1250000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>35.932907,31.949383,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">开罗</SchemaData>
+        <SchemaData name="Country">埃及</SchemaData>
+        <SchemaData name="Cap_Pop">9300000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;开罗&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;埃及&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;9300000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>31.250797,30.077911,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">新德里</SchemaData>
+        <SchemaData name="Country">印度</SchemaData>
+        <SchemaData name="Cap_Pop">273036.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;新德里&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;印度&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;273036.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>77.216751,28.568726,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">加德满都</SchemaData>
+        <SchemaData name="Country">尼泊尔</SchemaData>
+        <SchemaData name="Cap_Pop">320000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;加德满都&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;尼泊尔&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;320000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>85.312950,27.712017,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">廷布</SchemaData>
+        <SchemaData name="Country">不丹</SchemaData>
+        <SchemaData name="Cap_Pop">12000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;廷布&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;不丹&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;12000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>89.667328,27.442606,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">多哈</SchemaData>
+        <SchemaData name="Country">卡塔尔</SchemaData>
+        <SchemaData name="Cap_Pop">310000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;多哈&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;卡塔尔&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;310000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>51.497234,25.203642,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">达卡</SchemaData>
+        <SchemaData name="Country">孟加拉国</SchemaData>
+        <SchemaData name="Cap_Pop">3430312.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;达卡&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;孟加拉国&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;3430312.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>90.407143,23.709919,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">河内</SchemaData>
+        <SchemaData name="Country">越南</SchemaData>
+        <SchemaData name="Cap_Pop">1500000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;河内&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;越南&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1500000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>105.819908,21.031948,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">墨西哥</SchemaData>
+        <SchemaData name="Country">墨西哥</SchemaData>
+        <SchemaData name="Cap_Pop">14100000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;墨西哥&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;墨西哥&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;14100000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-99.127571,19.427046,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">太子港</SchemaData>
+        <SchemaData name="Country">海地</SchemaData>
+        <SchemaData name="Cap_Pop">880000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;太子港&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;海地&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;880000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-72.343109,18.526617,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">圣胡安</SchemaData>
+        <SchemaData name="Country">波多黎各</SchemaData>
+        <SchemaData name="Cap_Pop">1775260.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;圣胡安&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;波多黎各&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1775260.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-66.081757,18.400616,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">金斯敦</SchemaData>
+        <SchemaData name="Country">牙买加</SchemaData>
+        <SchemaData name="Cap_Pop">770000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;金斯敦&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;牙买加&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;770000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-76.797302,18.015713,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">内比都</SchemaData>
+        <SchemaData name="Country">缅甸</SchemaData>
+        <SchemaData name="Cap_Pop">2800000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;内比都&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;缅甸&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;2800000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>96.124893,16.872223,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">萨那</SchemaData>
+        <SchemaData name="Country">也门</SchemaData>
+        <SchemaData name="Cap_Pop">427150.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;萨那&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;也门&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;427150.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>44.209503,15.361444,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">危地马拉</SchemaData>
+        <SchemaData name="Country">危地马拉</SchemaData>
+        <SchemaData name="Cap_Pop">1400000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;危地马拉&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;危地马拉&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1400000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-90.524902,14.618008,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">特古西加尔巴</SchemaData>
+        <SchemaData name="Country">洪都拉斯</SchemaData>
+        <SchemaData name="Cap_Pop">551606.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;特古西加尔巴&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;洪都拉斯&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;551606.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-87.203094,14.099051,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">曼谷</SchemaData>
+        <SchemaData name="Country">泰国</SchemaData>
+        <SchemaData name="Cap_Pop">6450000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;曼谷&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;泰国&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;6450000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>100.552666,13.745571,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">圣萨尔瓦多</SchemaData>
+        <SchemaData name="Country">萨尔瓦多</SchemaData>
+        <SchemaData name="Cap_Pop">920000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;圣萨尔瓦多&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;萨尔瓦多&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;920000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-89.200233,13.701412,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">尼亚美</SchemaData>
+        <SchemaData name="Country">尼日尔</SchemaData>
+        <SchemaData name="Cap_Pop">398265.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;尼亚美&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;尼日尔&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;398265.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>2.083450,13.604544,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">巴马科</SchemaData>
+        <SchemaData name="Country">马里</SchemaData>
+        <SchemaData name="Cap_Pop">646163.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;巴马科&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;马里&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;646163.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-7.986482,12.652950,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">马那瓜湖</SchemaData>
+        <SchemaData name="Country">尼加拉瓜</SchemaData>
+        <SchemaData name="Cap_Pop">682000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;马那瓜湖&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;尼加拉瓜&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;682000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-86.273033,12.151473,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">金边</SchemaData>
+        <SchemaData name="Country">柬埔寨</SchemaData>
+        <SchemaData name="Cap_Pop">700000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;金边&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;柬埔寨&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;700000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>104.913193,11.564736,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">加拉加斯</SchemaData>
+        <SchemaData name="Country">委内瑞拉</SchemaData>
+        <SchemaData name="Cap_Pop">3600000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;加拉加斯&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;委内瑞拉&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;3600000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-66.898285,10.496049,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">圣何塞</SchemaData>
+        <SchemaData name="Country">哥斯达黎加</SchemaData>
+        <SchemaData name="Cap_Pop">670000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;圣何塞&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;哥斯达黎加&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;670000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-84.078613,9.930476,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">阿克拉</SchemaData>
+        <SchemaData name="Country">加纳</SchemaData>
+        <SchemaData name="Cap_Pop">1250000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;阿克拉&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;加纳&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1250000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-0.200924,5.558563,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">亚穆苏克罗</SchemaData>
+        <SchemaData name="Country">科特迪瓦</SchemaData>
+        <SchemaData name="Cap_Pop">1950000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;亚穆苏克罗&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;科特迪瓦&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1950000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-4.021887,5.324857,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">波哥大</SchemaData>
+        <SchemaData name="Country">哥伦比亚</SchemaData>
+        <SchemaData name="Cap_Pop">4260000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;波哥大&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;哥伦比亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;4260000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-74.080513,4.630220,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">班吉</SchemaData>
+        <SchemaData name="Country">中非</SchemaData>
+        <SchemaData name="Cap_Pop">473817.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;班吉&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;中非&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;473817.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>18.562342,4.365856,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">雅温德</SchemaData>
+        <SchemaData name="Country">喀麦隆</SchemaData>
+        <SchemaData name="Cap_Pop">653670.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;雅温德&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;喀麦隆&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;653670.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>11.513641,3.865123,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">吉隆陂</SchemaData>
+        <SchemaData name="Country">马来西亚</SchemaData>
+        <SchemaData name="Cap_Pop">1475000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;吉隆陂&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;马来西亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1475000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>101.707672,3.150210,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">摩加迪沙</SchemaData>
+        <SchemaData name="Country">索马里</SchemaData>
+        <SchemaData name="Cap_Pop">600000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;摩加迪沙&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;索马里&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;600000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>45.344143,2.041178,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">基多</SchemaData>
+        <SchemaData name="Country">厄瓜多尔</SchemaData>
+        <SchemaData name="Cap_Pop">1050000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;基多&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;厄瓜多尔&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1050000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-78.524284,-0.229498,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">布拉扎维</SchemaData>
+        <SchemaData name="Country">刚果</SchemaData>
+        <SchemaData name="Cap_Pop">585812.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;布拉扎维&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;刚果&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;585812.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>15.285149,-4.285187,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">达累斯萨拉姆</SchemaData>
+        <SchemaData name="Country">坦桑尼亚</SchemaData>
+        <SchemaData name="Cap_Pop">1300000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;达累斯萨拉姆&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;坦桑尼亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1300000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>39.253349,-6.817359,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">巴西利亚</SchemaData>
+        <SchemaData name="Country">巴西</SchemaData>
+        <SchemaData name="Cap_Pop">1567709.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;巴西利亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;巴西&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1567709.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-47.897747,-15.792109,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">拉巴斯</SchemaData>
+        <SchemaData name="Country">玻利维亚</SchemaData>
+        <SchemaData name="Cap_Pop">992592.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;拉巴斯&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;玻利维亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;992592.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-68.146248,-16.499006,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">哈博罗内</SchemaData>
+        <SchemaData name="Country">博茨瓦纳</SchemaData>
+        <SchemaData name="Cap_Pop">95163.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;哈博罗内&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;博茨瓦纳&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;95163.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>25.794802,-24.661442,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">比勒陀利亚</SchemaData>
+        <SchemaData name="Country">南非</SchemaData>
+        <SchemaData name="Cap_Pop">960000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;比勒陀利亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;南非&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;960000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>28.218372,-25.731346,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">马普托</SchemaData>
+        <SchemaData name="Country">莫桑比克</SchemaData>
+        <SchemaData name="Cap_Pop">1069727.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;马普托&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;莫桑比克&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1069727.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>32.573692,-25.962154,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">圣地亚哥</SchemaData>
+        <SchemaData name="Country">智利</SchemaData>
+        <SchemaData name="Cap_Pop">4100000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;圣地亚哥&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;智利&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;4100000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-70.647514,-33.475025,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">布宜诺斯艾利斯</SchemaData>
+        <SchemaData name="Country">阿根廷</SchemaData>
+        <SchemaData name="Cap_Pop">10750000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;布宜诺斯艾利斯&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;阿根廷&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;10750000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-58.409592,-34.665401,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">堪培拉</SchemaData>
+        <SchemaData name="Country">澳大利亚</SchemaData>
+        <SchemaData name="Cap_Pop">271362.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;堪培拉&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;澳大利亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;271362.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>149.041626,-35.349926,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">赫尔辛基</SchemaData>
+        <SchemaData name="Country">芬兰</SchemaData>
+        <SchemaData name="Cap_Pop">900000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;赫尔辛基&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;芬兰&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;900000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>24.976700,60.196423,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">恩贾梅纳</SchemaData>
+        <SchemaData name="Country">乍得</SchemaData>
+        <SchemaData name="Cap_Pop">303000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;恩贾梅纳&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;乍得&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;303000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>15.240824,12.104139,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">的黎波里</SchemaData>
+        <SchemaData name="Country">利比亚</SchemaData>
+        <SchemaData name="Cap_Pop">990697.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;的黎波里&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;利比亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;990697.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>13.211823,32.751617,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">金沙萨</SchemaData>
+        <SchemaData name="Country">扎伊尔</SchemaData>
+        <SchemaData name="Cap_Pop">3000000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;金沙萨&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;扎伊尔&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;3000000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>15.469294,-4.388675,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">雅加达</SchemaData>
+        <SchemaData name="Country">印度尼西亚</SchemaData>
+        <SchemaData name="Cap_Pop">8600000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;雅加达&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;印度尼西亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;8600000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>106.762466,-6.293904,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">万象</SchemaData>
+        <SchemaData name="Country">老挝</SchemaData>
+        <SchemaData name="Cap_Pop">377409.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;万象&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;老挝&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;377409.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>102.680237,18.001732,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">萨格勒布</SchemaData>
+        <SchemaData name="Country">克罗地亚</SchemaData>
+        <SchemaData name="Cap_Pop">697925.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;萨格勒布&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;克罗地亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;697925.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>15.964386,45.807076,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">布琼布拉</SchemaData>
+        <SchemaData name="Country">布隆迪</SchemaData>
+        <SchemaData name="Cap_Pop">273000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;布琼布拉&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;布隆迪&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;273000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>29.533587,-3.269084,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">尼科西亚</SchemaData>
+        <SchemaData name="Country">塞浦路斯</SchemaData>
+        <SchemaData name="Cap_Pop">185000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;尼科西亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;塞浦路斯&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;185000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>33.385162,35.165070,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">基加利</SchemaData>
+        <SchemaData name="Country">卢旺达</SchemaData>
+        <SchemaData name="Cap_Pop">181600.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;基加利&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;卢旺达&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;181600.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>29.991486,-2.117935,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">卢布尔雅那</SchemaData>
+        <SchemaData name="Country">斯洛文尼亚</SchemaData>
+        <SchemaData name="Cap_Pop">233200.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;卢布尔雅那&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;斯洛文尼亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;233200.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>14.639612,46.068302,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">马塞卢</SchemaData>
+        <SchemaData name="Country">莱索托</SchemaData>
+        <SchemaData name="Cap_Pop">109382.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;马塞卢&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;莱索托&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;109382.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>27.890388,-29.256710,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">卢森堡</SchemaData>
+        <SchemaData name="Country">卢森堡</SchemaData>
+        <SchemaData name="Cap_Pop">133000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;卢森堡&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;卢森堡&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;133000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>6.273256,49.740406,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">布拉迪斯拉发</SchemaData>
+        <SchemaData name="Country">斯洛伐克</SchemaData>
+        <SchemaData name="Cap_Pop">435499.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;布拉迪斯拉发&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;斯洛伐克&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;435499.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>17.269806,48.274509,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">波多诺伏</SchemaData>
+        <SchemaData name="Country">贝宁</SchemaData>
+        <SchemaData name="Cap_Pop">164000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;波多诺伏&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;贝宁&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;164000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>2.632503,6.601096,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">阿尔及尔</SchemaData>
+        <SchemaData name="Country">阿尔及利亚</SchemaData>
+        <SchemaData name="Cap_Pop">2547983.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;阿尔及尔&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;阿尔及利亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;2547983.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>2.993693,36.596493,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">塔林</SchemaData>
+        <SchemaData name="Country">爱沙尼亚</SchemaData>
+        <SchemaData name="Cap_Pop">482000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;塔林&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;爱沙尼亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;482000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>24.752056,59.277573,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">圣多明各</SchemaData>
+        <SchemaData name="Country">多米尼加</SchemaData>
+        <SchemaData name="Cap_Pop">1313172.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;圣多明各&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;多米尼加&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1313172.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-69.910492,18.499729,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">斯里巴加湾市</SchemaData>
+        <SchemaData name="Country">文莱</SchemaData>
+        <SchemaData name="Cap_Pop">64000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;斯里巴加湾市&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;文莱&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;64000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>114.967003,4.933000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">班珠尔</SchemaData>
+        <SchemaData name="Country">冈比亚</SchemaData>
+        <SchemaData name="Cap_Pop">95000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;班珠尔&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;冈比亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;95000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-16.494616,13.445272,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">西班牙港</SchemaData>
+        <SchemaData name="Country">特立尼达</SchemaData>
+        <SchemaData name="Cap_Pop">370000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;西班牙港&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;特立尼达&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;370000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-61.490063,10.639734,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">吉布提</SchemaData>
+        <SchemaData name="Country">吉布提</SchemaData>
+        <SchemaData name="Cap_Pop">120000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;吉布提&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;吉布提&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;120000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>43.099998,11.500000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">弋特霍布（努克）</SchemaData>
+        <SchemaData name="Country">格陵兰（丹）</SchemaData>
+        <SchemaData name="Cap_Pop">12426.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;弋特霍布（努克）&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;格陵兰（丹）&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;12426.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-51.580002,64.271187,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">姆巴巴内</SchemaData>
+        <SchemaData name="Country">斯威士兰</SchemaData>
+        <SchemaData name="Cap_Pop">38290.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;姆巴巴内&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;斯威士兰&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;38290.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>31.191298,-26.303381,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">波德戈里察（铁托格勒）</SchemaData>
+        <SchemaData name="Country"> 黑山</SchemaData>
+        <SchemaData name="Cap_Pop">82500.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;波德戈里察（铁托格勒）&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt; 黑山&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;82500.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>19.400000,42.500000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">萨拉热窝</SchemaData>
+        <SchemaData name="Country">波斯尼亚</SchemaData>
+        <SchemaData name="Cap_Pop">341200.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;萨拉热窝&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;波斯尼亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;341200.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>18.430000,43.869999,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">斯科普里</SchemaData>
+        <SchemaData name="Country">马其顿</SchemaData>
+        <SchemaData name="Cap_Pop">444900.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;斯科普里&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;马其顿&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;444900.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>21.530001,42.000000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">亚的斯亚贝巴</SchemaData>
+        <SchemaData name="Country">埃塞俄比亚</SchemaData>
+        <SchemaData name="Cap_Pop">1500000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;亚的斯亚贝巴&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;埃塞俄比亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1500000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>38.700001,9.030000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">科威特</SchemaData>
+        <SchemaData name="Country">科威特</SchemaData>
+        <SchemaData name="Cap_Pop">1375000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;科威特&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;科威特&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1375000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>48.002777,29.194990,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">塔那那利佛</SchemaData>
+        <SchemaData name="Country">马达加斯加</SchemaData>
+        <SchemaData name="Cap_Pop">663000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;塔那那利佛&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;马达加斯加&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;663000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>47.500000,-18.870001,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">利雅得</SchemaData>
+        <SchemaData name="Country">沙特阿拉伯</SchemaData>
+        <SchemaData name="Cap_Pop">1250000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;利雅得&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;沙特阿拉伯&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1250000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>46.770000,24.650000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">阿斯马拉</SchemaData>
+        <SchemaData name="Country">厄立特里亚</SchemaData>
+        <SchemaData name="Cap_Pop">275385.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;阿斯马拉&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;厄立特里亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;275385.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>38.970001,15.330000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">亚松森</SchemaData>
+        <SchemaData name="Country">巴拉圭</SchemaData>
+        <SchemaData name="Cap_Pop">700000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;亚松森&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;巴拉圭&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;700000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-57.669998,-25.219999,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">雅典</SchemaData>
+        <SchemaData name="Country">希腊</SchemaData>
+        <SchemaData name="Cap_Pop">3027331.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;雅典&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;希腊&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;3027331.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>23.654863,38.121601,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">贝鲁特</SchemaData>
+        <SchemaData name="Country">黎巴嫩</SchemaData>
+        <SchemaData name="Cap_Pop">1675000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;贝鲁特&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;黎巴嫩&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1675000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>35.657944,33.779999,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">贝尔莫潘</SchemaData>
+        <SchemaData name="Country">伯利兹</SchemaData>
+        <SchemaData name="Cap_Pop">4500.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;贝尔莫潘&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;伯利兹&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;4500.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-88.800003,17.120001,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">比绍</SchemaData>
+        <SchemaData name="Country">几内亚比绍</SchemaData>
+        <SchemaData name="Cap_Pop">109486.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;比绍&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;几内亚比绍&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;109486.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-15.650000,11.910990,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">卡宴</SchemaData>
+        <SchemaData name="Country">法属圭亚那</SchemaData>
+        <SchemaData name="Cap_Pop">38091.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;卡宴&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;法属圭亚那&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;38091.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-52.400002,4.920000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">科伦坡</SchemaData>
+        <SchemaData name="Country">斯里兰卡</SchemaData>
+        <SchemaData name="Cap_Pop">2050000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;科伦坡&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;斯里兰卡&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;2050000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>80.088333,7.020000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">科纳克里</SchemaData>
+        <SchemaData name="Country">几内亚</SchemaData>
+        <SchemaData name="Cap_Pop">800000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;科纳克里&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;几内亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;800000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-12.800000,9.520000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">达喀尔</SchemaData>
+        <SchemaData name="Country">塞内加尔</SchemaData>
+        <SchemaData name="Cap_Pop">1428084.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;达喀尔&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;塞内加尔&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1428084.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-16.848095,14.630000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">杜尚别</SchemaData>
+        <SchemaData name="Country">塔吉克斯坦</SchemaData>
+        <SchemaData name="Cap_Pop">595000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;杜尚别&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;塔吉克斯坦&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;595000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>68.900002,38.630001,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">弗里敦</SchemaData>
+        <SchemaData name="Country">塞拉利昂</SchemaData>
+        <SchemaData name="Cap_Pop">525000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;弗里敦&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;塞拉利昂&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;525000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-12.910276,8.382771,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">比什凯克</SchemaData>
+        <SchemaData name="Country">吉尔吉斯斯坦</SchemaData>
+        <SchemaData name="Cap_Pop">616000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;比什凯克&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;吉尔吉斯斯坦&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;616000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>74.769997,42.880001,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">帕拉马里博</SchemaData>
+        <SchemaData name="Country">苏里南</SchemaData>
+        <SchemaData name="Cap_Pop">188000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;帕拉马里博&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;苏里南&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;188000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-58.169998,6.770000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">哈拉雷</SchemaData>
+        <SchemaData name="Country">津巴布韦</SchemaData>
+        <SchemaData name="Cap_Pop">890000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;哈拉雷&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;津巴布韦&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;890000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>31.020000,-17.830000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">哈瓦那</SchemaData>
+        <SchemaData name="Country">古巴</SchemaData>
+        <SchemaData name="Cap_Pop">2125000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;哈瓦那&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;古巴&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;2125000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-82.416451,23.048952,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">坎帕拉</SchemaData>
+        <SchemaData name="Country">乌干达</SchemaData>
+        <SchemaData name="Cap_Pop">460000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;坎帕拉&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;乌干达&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;460000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>32.580002,0.320000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">喀土穆</SchemaData>
+        <SchemaData name="Country">苏丹</SchemaData>
+        <SchemaData name="Cap_Pop">924000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;喀土穆&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;苏丹&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;924000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>32.529999,15.550000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">基什尼奥夫</SchemaData>
+        <SchemaData name="Country">摩尔多瓦</SchemaData>
+        <SchemaData name="Cap_Pop">665000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;基什尼奥夫&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;摩尔多瓦&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;665000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>28.830000,47.000000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">哥本哈根</SchemaData>
+        <SchemaData name="Country">丹麦</SchemaData>
+        <SchemaData name="Cap_Pop">1685000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;哥本哈根&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;丹麦&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1685000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>12.550000,55.720001,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">阿布贾</SchemaData>
+        <SchemaData name="Country">尼日利亚</SchemaData>
+        <SchemaData name="Cap_Pop">3800000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;阿布贾&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;尼日利亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;3800000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>3.300000,6.450000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">利伯维尔</SchemaData>
+        <SchemaData name="Country">加蓬</SchemaData>
+        <SchemaData name="Cap_Pop">235700.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;利伯维尔&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;加蓬&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;235700.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>9.490457,-0.504145,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">利隆圭</SchemaData>
+        <SchemaData name="Country">马拉维</SchemaData>
+        <SchemaData name="Cap_Pop">233973.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;利隆圭&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;马拉维&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;233973.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>33.820000,-13.920000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">利马</SchemaData>
+        <SchemaData name="Country">秘鲁</SchemaData>
+        <SchemaData name="Cap_Pop">4344000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;利马&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;秘鲁&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;4344000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-76.823555,-12.067996,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">里斯本</SchemaData>
+        <SchemaData name="Country">葡萄牙</SchemaData>
+        <SchemaData name="Cap_Pop">2250000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;里斯本&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;葡萄牙&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;2250000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-9.130000,38.730000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">洛美</SchemaData>
+        <SchemaData name="Country">多哥</SchemaData>
+        <SchemaData name="Cap_Pop">400000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;洛美&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;多哥&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;400000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>1.350000,6.280000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">罗安达</SchemaData>
+        <SchemaData name="Country">安哥拉</SchemaData>
+        <SchemaData name="Cap_Pop">1459900.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;罗安达&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;安哥拉&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1459900.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>13.461779,-9.000000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">卢萨卡</SchemaData>
+        <SchemaData name="Country">赞比亚</SchemaData>
+        <SchemaData name="Cap_Pop">535830.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;卢萨卡&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;赞比亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;535830.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>28.170000,-15.430000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">马拉博</SchemaData>
+        <SchemaData name="Country">赤道几内亚</SchemaData>
+        <SchemaData name="Cap_Pop">30710.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;马拉博&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;赤道几内亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;30710.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>8.820000,3.644685,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">马尼拉</SchemaData>
+        <SchemaData name="Country">菲律宾</SchemaData>
+        <SchemaData name="Cap_Pop">5474000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;马尼拉&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;菲律宾&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;5474000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>121.173409,14.550000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">马斯喀特</SchemaData>
+        <SchemaData name="Country">阿曼</SchemaData>
+        <SchemaData name="Cap_Pop">50000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;马斯喀特&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;阿曼&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;50000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>58.627480,23.516640,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">蒙罗维亚</SchemaData>
+        <SchemaData name="Country">利比里亚</SchemaData>
+        <SchemaData name="Cap_Pop">465000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;蒙罗维亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;利比里亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;465000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-10.770000,6.517439,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">蒙得维的亚</SchemaData>
+        <SchemaData name="Country">乌拉圭</SchemaData>
+        <SchemaData name="Cap_Pop">1550000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;蒙得维的亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;乌拉圭&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1550000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-56.169998,-34.919998,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">莫斯科</SchemaData>
+        <SchemaData name="Country">俄罗斯</SchemaData>
+        <SchemaData name="Cap_Pop">13100000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;莫斯科&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;俄罗斯&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;13100000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>37.700001,55.750000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">内罗毕</SchemaData>
+        <SchemaData name="Country">肯尼亚</SchemaData>
+        <SchemaData name="Cap_Pop">1286200.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;内罗毕&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;肯尼亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1286200.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>36.830002,-1.170000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">努瓦克肖特</SchemaData>
+        <SchemaData name="Country">毛利塔尼亚</SchemaData>
+        <SchemaData name="Cap_Pop">285000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;努瓦克肖特&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;毛利塔尼亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;285000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-15.782861,18.030001,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">奥斯陆</SchemaData>
+        <SchemaData name="Country">挪威</SchemaData>
+        <SchemaData name="Cap_Pop">720000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;奥斯陆&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;挪威&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;720000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>10.720000,59.930000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">瓦加杜古</SchemaData>
+        <SchemaData name="Country">布基纳法索</SchemaData>
+        <SchemaData name="Cap_Pop">441514.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;瓦加杜古&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;布基纳法索&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;441514.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-1.670000,12.480000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">巴拿马</SchemaData>
+        <SchemaData name="Country">巴拿马</SchemaData>
+        <SchemaData name="Cap_Pop">625000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;巴拿马&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;巴拿马&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;625000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-79.400002,8.950000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">乔治敦</SchemaData>
+        <SchemaData name="Country">圭亚那</SchemaData>
+        <SchemaData name="Cap_Pop">241000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;乔治敦&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;圭亚那&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;241000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-55.230000,5.930000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">莫尔兹比港</SchemaData>
+        <SchemaData name="Country">巴布亚新几内亚</SchemaData>
+        <SchemaData name="Cap_Pop">152100.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;莫尔兹比港&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;巴布亚新几内亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;152100.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>147.414520,-9.550000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">拉巴特</SchemaData>
+        <SchemaData name="Country">摩洛哥</SchemaData>
+        <SchemaData name="Cap_Pop">980000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;拉巴特&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;摩洛哥&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;980000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-6.748041,33.920197,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">雷克雅末</SchemaData>
+        <SchemaData name="Country">冰岛</SchemaData>
+        <SchemaData name="Cap_Pop">137941.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;雷克雅末&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;冰岛&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;137941.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>-21.336821,64.313263,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">里加</SchemaData>
+        <SchemaData name="Country">拉脱维亚</SchemaData>
+        <SchemaData name="Cap_Pop">1005000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;里加&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;拉脱维亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1005000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>24.049999,56.880001,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">罗马</SchemaData>
+        <SchemaData name="Country">意大利</SchemaData>
+        <SchemaData name="Cap_Pop">3175000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;罗马&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;意大利&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;3175000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>12.520000,41.880001,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">斯德哥尔摩</SchemaData>
+        <SchemaData name="Country">瑞典</SchemaData>
+        <SchemaData name="Cap_Pop">1449972.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;斯德哥尔摩&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;瑞典&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1449972.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>18.084269,59.244633,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">特拉维夫-雅法</SchemaData>
+        <SchemaData name="Country">以色列</SchemaData>
+        <SchemaData name="Cap_Pop">1670000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;特拉维夫-雅法&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;以色列&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;1670000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>34.856834,31.917198,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">塔什干</SchemaData>
+        <SchemaData name="Country">乌兹别克斯坦</SchemaData>
+        <SchemaData name="Cap_Pop">2325000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;塔什干&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;乌兹别克斯坦&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;2325000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>69.349869,41.247932,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">温得和克</SchemaData>
+        <SchemaData name="Country">纳米比亚</SchemaData>
+        <SchemaData name="Cap_Pop">114500.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;温得和克&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;纳米比亚&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;114500.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>17.100000,-22.570000,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">惠灵顿</SchemaData>
+        <SchemaData name="Country">新西兰</SchemaData>
+        <SchemaData name="Cap_Pop">350000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;惠灵顿&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;新西兰&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;350000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>175.144943,-41.210396,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">阿布扎比</SchemaData>
+        <SchemaData name="Country">阿拉伯联合酋长国</SchemaData>
+        <SchemaData name="Cap_Pop">242975.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;阿布扎比&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;阿拉伯联合酋长国&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;242975.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>54.619270,24.236008,0.000000</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <ExtendedData>
+        <SchemaData schemaUrl="#schemaUrl123" />
+        <SchemaData name="Capital">新加坡</SchemaData>
+        <SchemaData name="Country">新加坡</SchemaData>
+        <SchemaData name="Cap_Pop">2500000.000000</SchemaData>
+    </ExtendedData>
+    <description>&lt;center&gt;&lt;th colspan=&apos;2&apos; align=&apos;center&apos;&gt;&lt;em&gt;Attributes&lt;/em&gt;&lt;/th&gt;&lt;table BORDER=&quot;5&quot; BORDERCOLOR=&quot;#0000A9&quot;&gt;&lt;tr&gt;&lt;/tr&gt;&lt;hr color=&quot;#ff8000&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Capital&lt;/th&gt;&lt;td&gt;新加坡&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Country&lt;/th&gt;&lt;td&gt;新加坡&lt;/td&gt;&lt;/tr&gt;&lt;tr bgcolor=&quot;#E3E3F3&quot;&gt;&lt;th&gt;Cap_Pop&lt;/th&gt;&lt;td&gt;2500000.000000&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;</description>
+    <name></name>
+    <styleUrl></styleUrl>
+    <extrude>0</extrude>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+        <coordinates>103.840078,1.308692,0.000000</coordinates>
+    </Point>
+</Placemark>
+</Document>
+</kml>

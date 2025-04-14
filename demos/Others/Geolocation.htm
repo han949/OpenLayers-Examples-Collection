@@ -1,0 +1,208 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>定位导航示例</title>
+    <meta charset="utf-8" />
+    <link href="../../css/ol.css" rel="stylesheet" />
+    <script src="../../libs/ol5/ol.js"></script>
+    <script src="../../libs/jquery-1.11.2.min.js"></script>
+    <style>
+        body {
+            margin: 0px;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            position: absolute;
+        }
+
+        #container {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            width: 24%;
+            height: 22%;
+            padding: 5px 10px;
+            background-color: rgba(0,0,0,0.5);
+            font-size: 14px;
+            border-radius: 2px;
+            z-index: 999;
+        }
+
+            #container p {
+                color: rgb(255, 255, 255);
+                line-height: 10px;
+            }
+            #container code{
+                color:rgb(240, 244, 45);
+                font:bold;
+            }
+        #mapCon {
+            position: relative;
+            background: #f8f4f0;
+            width: 100%;
+            height: 100%;
+        }
+
+        #menu {
+            padding: 10px;
+            border-radius: 3px;
+            overflow: hidden;
+            width: 100%;
+            height: auto;
+            box-shadow: 0 0 2px 1px #949292;
+            text-align: center;
+            z-index: 2001;
+            border-color: #66ccff;
+            border-bottom: 1px solid #949292;
+            margin-bottom: 2px;
+        }
+        #info{
+            color:rgba(255, 0, 0,0.5)
+        }
+    </style>
+</head>
+<body>
+    <div id="menu">
+        <label class="title" for="track">
+            导航定位演示：<input id="track" type="checkbox" />开启定位
+        </label>
+        <div id="info" class="alert alert-error" style="display: none;"></div>
+    </div>
+    <div id="mapCon">
+        <div id="container">
+            <p>位置精度（position accuracy）: <code id="accuracy"></code></p>
+            <p>海拔高度（altitude）: <code id="altitude"></code></p>
+            <p>海拔精度（altitude accuracy）: <code id="altitudeAccuracy"></code></p>
+            <p>航向（heading）: <code id="heading"></code></p>
+            <p>速度（speed）: <code id="speed"></code></p>
+        </div>
+    </div>
+    <script>
+        //实例化Map对象加载地图
+        var map = new ol.Map({
+            //地图容器div的ID
+            target: 'mapCon',
+            //地图容器中加载的图层
+            layers: [
+               new ol.layer.Tile({
+                   title: "天地图矢量图层",
+                   source: new ol.source.XYZ({
+                       url: "http://t0.tianditu.com/DataServer?T=vec_w&x={x}&y={y}&l={z}&tk=3bc6874f2b919aa581635abab7759a3f",
+                       wrapX: false
+                   })
+               }),
+               new ol.layer.Tile({
+                   title: "天地图矢量图层注记",
+                   source: new ol.source.XYZ({
+                       url: "http://t0.tianditu.com/DataServer?T=cva_w&x={x}&y={y}&l={z}&tk=3bc6874f2b919aa581635abab7759a3f",
+                       wrapX: false
+                   })
+               })
+            ],
+            //地图视图设置
+            view: new ol.View({
+                //地图初始中心点
+                center: [0, 0],
+                //地图初始显示级别
+                zoom: 12
+            })
+        });
+        //创建一个定位控件
+        var geolocation = new ol.Geolocation({
+            projection: map.getView().getProjection(), //设置投影参考系
+            //追踪参数
+            trackingOptions: {
+                maximumAge: 10000, //最大周期
+                enableHighAccuracy: true, //启用高精度
+                timeout: 600000  //超时
+            }
+        });
+        //定位功能按钮绑定'change'事件，控制定位控件的开启与关闭功能
+        $('#track').bind('change', function () {
+            geolocation.setTracking(this.checked); //启动位置跟踪
+            if (this.checked) {
+                map.addLayer(featuresOverlay); //添加定位点标注（矢量要素图层）
+            }
+            else {
+                map.removeLayer(featuresOverlay); //移除定位点标注（矢量要素图层）
+            }
+        });
+        // 添加定位控件的位置变更事件（更新面板的导航位置信息）
+        geolocation.on('change', function () {
+            $('#accuracy').text(geolocation.getAccuracy() + ' [m]');
+            $('#altitude').text(geolocation.getAltitude() + ' [m]');
+            $('#altitudeAccuracy').text(geolocation.getAltitudeAccuracy() + ' [m]');
+            $('#heading').text(geolocation.getHeading() + ' [rad]');
+            $('#speed').text(geolocation.getSpeed() + ' [m/s]');
+        });
+        // 定位错误事件处理
+        geolocation.on('error', function (error) {
+            $('#info').html(error.message);
+            $('#info').css('display', '');
+        });
+        //精确模式定位点要素（一定分辨率下显示）
+        var accuracyFeature = new ol.Feature();
+        geolocation.on('change:accuracyGeometry', function () {
+            accuracyFeature.setGeometry(geolocation.getAccuracyGeometry());
+        });
+        //定位点要素
+        var positionFeature = new ol.Feature();
+        positionFeature.setStyle(new ol.style.Style({
+            image: new ol.style.Circle({
+                radius: 6,
+                fill: new ol.style.Fill({
+                    color: '#3399CC'
+                }),
+                stroke: new ol.style.Stroke({
+                    color: '#fff',
+                    width: 2
+                })
+            })
+        }));
+        //添加定位控件的导航位置变更事件处理
+        geolocation.on('change:position', function () {
+            var coordinates = geolocation.getPosition();
+            positionFeature.setGeometry(coordinates ? new ol.geom.Point(coordinates) : null);
+            flyLocation(coordinates);//飞行动画模式定位到导航点位点
+        });
+        function flyLocation(center) {
+            var duration = 4000;//动画的持续时间（以毫秒为单位）
+            var zoom = map.getView().getZoom();
+            var parts = 2;
+            var called = false;
+            //动画完成的回调函数
+            function callback(complete) {
+                --parts;
+                if (called) {
+                    return;
+                }
+                if (parts === 0 || !complete) {
+                    called = true;
+                    done(complete);
+                }
+            }
+            //第一个动画
+            map.getView().animate({
+                center: center,
+                duration: duration
+            }, callback);
+            //第二个动画
+            map.getView().animate({
+                zoom: zoom - 1,
+                duration: duration / 2
+            }, {
+                zoom: zoom,
+                duration: duration / 2
+            }, callback);
+        }
+        //创建定位点矢量图层（featuresOverlay）
+        var featuresOverlay = new ol.layer.Vector({
+            source: new ol.source.Vector({
+                features: [accuracyFeature, positionFeature]
+            })
+        });
+
+    </script>
+</body>
+</html>

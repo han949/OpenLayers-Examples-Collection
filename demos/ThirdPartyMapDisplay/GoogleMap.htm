@@ -1,0 +1,45 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>加载显示Google地图</title>
+    <link href="../../css/ol.css" rel="stylesheet" type="text/css" />
+    <script src="../../libs/ol5/ol.js" type="text/javascript"></script>
+    <style type="text/css">
+        #mapCon {
+            width: 99%;
+            height: 95%;
+            position: absolute;
+        }
+    </style>
+</head>
+<body>
+    <div id="mapCon">
+    </div>
+    <script type="text/javascript">
+        "use strict";
+        //实例化map对象加载地图
+        var map = new ol.Map({
+            //地图容器div的id
+            target: 'mapCon',
+            //地图容器中加载的图层
+            layers: [
+                //加载瓦片图层数据
+                new ol.layer.Tile({
+                    title: "谷歌地图",
+                    source: new ol.source.XYZ({
+                        url: "http://mt2.google.cn/vt/lyrs=m@167000000&hl=zh-CN&gl=cn&x={x}&y={y}&z={z} ",
+                        wrapX: false
+                    })
+                })
+            ],
+            //地图视图设置
+            view: new ol.View({
+                //地图初始中心点
+                center: [0, 0], 
+                zoom: 3
+            })
+        });
+    </script>
+</body>
+</html>

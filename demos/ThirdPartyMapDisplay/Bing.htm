@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>加载显示Bing地图</title>
+    <link href="../../css/ol.css" rel="stylesheet" type="text/css" />
+    <script src="../../libs/ol5/ol.js"></script>    
+    <style type="text/css">
+        #mapCon {
+            width: 100%;
+            height: 95%;
+            position: absolute;
+        }
+    </style>
+</head>
+<body>
+    <div id="mapCon"></div>
+    <script type="text/javascript">
+        //实例化Map对象加载地图
+        var key = 'Q57tupj2UBsQNQdju4xL~xBceblfTd6icjljunbuaCw~AhwA-whmGMsfIpVhslZyknWhFYq-GvWJZqBnqV8Zq1uRlI5YM_qr7_hxvdgnU7nH';
+        var roads = new ol.layer.Tile({
+            source: new ol.source.BingMaps({ key: key, imagerySet: 'Road' })
+        });
+        var map = new ol.Map({
+            layers: [roads],
+            target: 'mapCon',
+            view: new ol.View({
+                center: ol.proj.fromLonLat([-109, 46.5]),
+                zoom: 6
+            })
+        });
+    </script>
+</body>
+</html>
