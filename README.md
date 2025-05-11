@@ -2,7 +2,7 @@
 
 ## 项目简介
 
-这是一个基于OpenLayers 5的WebGIS示例集合，提供了多种地图功能的实现示例，帮助开发者快速掌握OpenLayers的使用方法。
+这是一个基于OpenLayers 5的WebGIS示例集合，提供了多种地图功能的实现示例，帮助开发者快速掌握OpenLayers的使用方法。预览地址：https://han949.github.io/OpenLayers-Examples-Collection/
 
 ## 功能模块
 
